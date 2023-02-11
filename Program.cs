@@ -1,4 +1,4 @@
-﻿class Program
+﻿class SafeManipulation
 {
     public static void Main(string[] args)
     {
